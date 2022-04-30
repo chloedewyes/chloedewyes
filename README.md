@@ -9,7 +9,7 @@
 
 
 ## 🌞 Me 🌞
-<a href="https://velog.io/@chloedewyes"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
+<a href="https://velog.io/@chloedewyes" target="_blank"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
 <a href="mailto:chloedewyes@gmail.com"><img src="https://img.shields.io/badge/Gmail-DF4D4D?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </div>
