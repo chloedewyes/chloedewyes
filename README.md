@@ -9,6 +9,6 @@
 
 
 ## 🌞 Me 🌞
-![](https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@chloedewyes) ![](https://img.shields.io/badge/Gmail-DF4D4D?style=flat-square&logo=Gmail&logoColor=white&link=chloedewyes@gmail.com)
+<img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@chloedewyes"/></a> <img src="https://img.shields.io/badge/Gmail-DF4D4D?style=flat-square&logo=Gmail&logoColor=white&link=chloedewyes@gmail.com"/></a>
 
 </div>
