@@ -1,16 +1,14 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**chloedewyes/chloedewyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Juye 👋
 
-Here are some ideas to get you started:
+![Just-Sayin-Hi-_2cdc7](https://user-images.githubusercontent.com/95920579/166096974-56104c43-736c-4a4c-9930-4d498b43666d.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack 🔨
+![](https://img.shields.io/badge/Kotlin-11B48A?style=flat-square&logo=Kotlin&logoColor=white) ![](https://img.shields.io/badge/Java-4374D9?style=flat-square&logo=Java&logoColor=white) ![](https://img.shields.io/badge/Python-FFBB00?style=flat-square&logo=Python&logoColor=white)
+
+
+## 🌞 Me 🌞
+![](https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@chloedewyes) ![](https://img.shields.io/badge/Gmail-DF4D4D?style=flat-square&logo=Gmail&logoColor=white&link=chloedewyes@gmail.com)
+
+</div>
